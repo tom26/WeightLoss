@@ -34,7 +34,7 @@ Weights = [1 100.6
 36 97.2
 37 96.3
 38 96.4
-39 98.4]
+39 96.4]
 
 #Calories from Daily Exercise (kcal)
 Calories = [2 400
